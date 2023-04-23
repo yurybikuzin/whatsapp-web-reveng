@@ -1,6 +1,5 @@
 
-
-# WhatsApp Web reverse engineered
+# [WhatsApp Web reverse engineered](https://github.com/sigalor/whatsapp-web-reveng/)
 
 ## Introduction
 This project intends to provide a complete description and re-implementation of the WhatsApp Web API, which will eventually lead to a custom client. WhatsApp Web internally works using WebSockets; this project does as well.
